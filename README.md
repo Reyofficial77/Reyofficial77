@@ -1,4 +1,4 @@
-# Halo semuanya! Saya [Lord Rey] 👋
+# Halo semuanya! Saya **Lord Rey** 👋
 
 ### 🚀 Full Stack & AI Engineer | 🔮 Vibe Coder
 
