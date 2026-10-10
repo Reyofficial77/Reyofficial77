@@ -17,28 +17,44 @@ Saya adalah seorang developer yang berumur 13 tahun yang bergerak di persimpanga
 ### 🛠️ Tech Stack & Tools
 
 #### 🎨 Frontend & Backend (Full Stack)
-![Next.js](https://shields.io)
-![React](https://shields.io)
-![TypeScript](https://shields.io)
-![NodeJS](https://shields.io)
-![Python](https://shields.io)
-![PostgreSQL](https://shields.io)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### 🤖 AI Engineering & Vibe Coding
-![OpenAI](https://shields.io)
-![Hugging Face](https://shields.io)
-![LangChain](https://shields.io⛓️%20LangChain-1C3C3A?style=for-the-badge)
-![Cursor](https://shields.ioCursor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub Copilot](https://shields.ioGitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="180px"/>
-  <img src="https://vercel.app" alt="Top Languages" height="180px"/>
-</p>
 
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Reyofficial77&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Lord Rey's GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyofficial77&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Lord Rey's Top Languages"
+    height="180"
+  />
+</p>
+---
+
+### ⚡ Technologies I Use
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,python,postgres,git,github,vscode,docker" alt="Technology Stack" />
+</p>
 ---
 
 ### 🤝 Mari Terhubung!
