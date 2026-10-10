@@ -48,6 +48,7 @@ Saya adalah seorang developer yang berumur 13 tahun yang bergerak di persimpanga
     height="180"
   />
 </p>
+
 ---
 
 ### ⚡ Technologies I Use
@@ -55,6 +56,7 @@ Saya adalah seorang developer yang berumur 13 tahun yang bergerak di persimpanga
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,python,postgres,git,github,vscode,docker" alt="Technology Stack" />
 </p>
+
 ---
 
 ### 🤝 Mari Terhubung!
